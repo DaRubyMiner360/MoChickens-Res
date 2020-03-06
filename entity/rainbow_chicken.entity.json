@@ -2,13 +2,13 @@
   "format_version": "1.10.0",
   "minecraft:client_entity": {
     "description": {
-      "identifier": "effect:diamond_chicken",
+      "identifier": "effect:rainbow_chicken",
       "materials": {
         "default": "chicken",
         "legs": "chicken_legs"
       },
       "textures": {
-        "default": "textures/entity/diamond_chicken"
+        "default": "textures/entity/rainbow_chicken"
       },
       "geometry": {
         "default": "geometry.chicken"
