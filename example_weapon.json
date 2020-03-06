@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "template:example_weapon",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:icon": "example_weapon",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}
