@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "By Effect99",
+        "name": "§lMinerals_Chickens",
+        "uuid": "1f25ce42-d4d1-4087-aa1e-469e98e57797",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "By Effect99",
+            "type": "resources",
+            "uuid": "a5447658-77cf-11e8-b5a5-be2e44b08f56",
+            "version": [0, 0, 1]
+        }
+    ]
+}
