@@ -2,12 +2,12 @@
   "format_version": "1.12.0",
   "minecraft:item": {
     "description": {
-      "identifier": "template:example_weapon",
+      "identifier": "mochickens:rainbow_sword",
       "category": "Equipment"
     },
 
     "components": {
-      "minecraft:icon": "example_weapon",
+      "minecraft:icon": "rainbow_sword",
       "minecraft:render_offsets": "tools"
     }
   }
