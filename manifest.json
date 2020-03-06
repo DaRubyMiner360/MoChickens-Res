@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "By DaRubyMiner360",
+        "name": "§lMoChickens",
+        "uuid": "1f25ce42-d4d1-4087-aa1e-469e98e57798",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "By DaRubyMiner360",
+            "type": "resources",
+            "uuid": "a5447658-77cf-11e8-b5a5-be2e44b08f57",
+            "version": [0, 0, 1]
+        }
+    ]
+}
